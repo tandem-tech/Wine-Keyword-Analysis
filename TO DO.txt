@@ -1,0 +1,6 @@
+1. Need to normalize the scores and prices to the count, how many times was the word repeated? Need to get an average? Do we want the score / price to be ranked higly just because the word is found in a lot of wine descriptions. We might be analyzing frequency here rather than importance. 
+
+2. find machine learning algorithms to apply, what trend do we want to predict? 
+    a. sweet spot of price / points
+    b. what word is most overrated?
+    c. what word is most underrated?
